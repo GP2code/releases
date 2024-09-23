@@ -4,7 +4,7 @@ Code from various GP2 releases in perpetuity. For in-depth information per relea
 
 ## Current Release
 Our latest release is release 8, last updated September 2024.
-* Blog post: pending
+* Blog post [here](https://gp2.org/the-components-of-gp2s-8th-data-release/)
 * DOI: 10.5281/zenodo.13755496
 * When using GP2 release 8 data please use the following acknowledgement:
   * “Data (DOI 10.5281/zenodo.13755496, release 8) used in the preparation of this article were obtained from the Global Parkinson’s Genetics Program (GP2).”
