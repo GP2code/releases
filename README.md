@@ -6,7 +6,7 @@ Code from various GP2 releases in perpetuity. For in-depth information per relea
 Our latest release is release 12, last updated July 2026.
 * Blog post [here](https://gp2.org/the-components-of-gp2s-12th-data-release/)
 * DOI: 10.5281/zenodo.20932193
-* When using GP2 release 11 data please use the following acknowledgement:
+* When using GP2 release 12 data please use the following acknowledgement:
  > “Data (DOI 10.5281/zenodo.20932193, release 12) and/or code used in the preparation of this article were obtained from the Global Parkinson’s Genetics Program (GP2). GP2 is funded by the Aligning Science Across Parkinson’s (ASAP) initiative and implemented by The Michael J. Fox Foundation for Parkinson’s Research (gp2.org). For a complete list of GP2 members see gp2.org.”
 
 ---
