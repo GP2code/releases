@@ -11,7 +11,7 @@ Our latest release is release 12, last updated July 2026.
 
 ---
 ## Previous Releases
-- Release 11; December 2025; [blog here](https://gp2.org/the-components-of-gp2s-11th-data-release/); DOI 10.5281/zenodo.17753486
+- Release 11; December 2025; [blog here](https://gp2.org/the-components-of-gp2s-11th-data-release/); DOI: 10.5281/zenodo.17753486
 - Release 10; July 2025; [blog here](https://gp2.org/the-components-of-gp2s-10th-data-release/); DOI: 10.5281/zenodo.15748014
 - Release 9; December 2024; [blog here](https://gp2.org/the-components-of-gp2s-9th-data-release/); DOI: 10.5281/zenodo.14510099
 - Release 8; September 2024; [blog here](https://gp2.org/the-components-of-gp2s-seventh-data-release/); DOI: 10.5281/zenodo.13755496
